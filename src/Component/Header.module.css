@@ -1,0 +1,25 @@
+.header{
+    padding: 30px;
+    background:linear-gradient(to bottom right,blue,pink);
+    margin-top: 5px;
+    color: White;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header>h1{
+    font-size: 30px;
+    font-weight: normal;
+}
+.header>p{
+    width: 70%;
+    text-align: "center";
+    margin: "auto";
+}
+.header>button{
+    background-color: white;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+}

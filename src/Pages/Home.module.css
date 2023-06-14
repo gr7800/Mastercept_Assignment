@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    color: gray;
+    justify-content: space-between;
+    padding: 0px 20px 0px 20px;
+    font-size: 14px;
+}
+.footer>p:last-child{
+    color: aqua;
+    font-size: 15px;
+    cursor: pointer;
+}
